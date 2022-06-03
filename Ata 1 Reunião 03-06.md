@@ -33,6 +33,6 @@ Os arquivos para leitura do arquivo, cálculo dos requisitos e apresentação do
 |Israel de Freitas Madureira||israelmadureira@yahoo.com.br
 |Jayne Fernandes||jayne.fernandes@tre-sp.jus.br
 |Leon Santos Filho||leon@tre-mt.jus.br
-|Rafael Fagundes Cavalcante||rfcavalcanti@tjma.jus.br
+|Rafael Fagundes Cavalcanti||rfcavalcanti@tjma.jus.br
 |Lucir Vaz||sofisma.vaz@gmail.com
 
