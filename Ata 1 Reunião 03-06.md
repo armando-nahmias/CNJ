@@ -10,6 +10,15 @@ Local: Por meio de videoconferência, pelo endereço: https://tre-rr.link/Projet
 Apresentar da proposta de criação de painel para acompanhar o Prêmio CNJ de Qualidade
 Definição do escopo inicial e do MVP
 
+## Deliberações:
+
+Os participantes se apresentaram, esclarecendo o nível de domínio com as ferramentas R, Rmardown, Shiny e Github.
+Foi apresentada a proposta que é de criar um projeto para apresentar o índice de desempenho institucional, que demonstrará o nível de alcance das metas esperadas pelo Prêmio de Qualidade do CNJ.
+Inicialmente, o escopo do projeto estará restrito a ler um arquivo com os dados relevantes para o cálculo dos diversos requisitos do Prêmio e apresentar a pontuação correspondente no prêmio.
+O MVP (Produto Minimamente viável) será um painel não interativo com a pontuação de apenas um tribunal.
+Inicialmente, será adotada a base da massa de dados em formato estático (XLS, CSV), para facilitar a criação de painéis.
+Os arquivos para leitura do arquivo, cálculo dos requisitos e apresentação do resultado será armazenado no github, em ambiente privado, com os participantes interessados mediante cadastradamento.
+
 ## Participantes:
 
 |Participante|Usuário GitHub|email|
@@ -27,12 +36,3 @@ Definição do escopo inicial e do MVP
 |Rafael Fagundes Cavalcante||rfcavalcanti@tjma.jus.br
 |Lucir Vaz||sofisma.vaz@gmail.com
 
-
-## Deliberações:
-
-Os participantes se apresentaram, esclarecendo o nível de domínio com as ferramentas R, Rmardown, Shiny e Github.
-Foi apresentada a proposta que é de criar um projeto para apresentar o índice de desempenho institucional, que demonstrará o nível de alcance das metas esperadas pelo Prêmio de Qualidade do CNJ.
-Inicialmente, o escopo do projeto estará restrito a ler um arquivo com os dados relevantes para o cálculo dos diversos requisitos do Prêmio e apresentar a pontuação correspondente no prêmio.
-O MVP (Produto Minimamente viável) será um painel não interativo com a pontuação de apenas um tribunal.
-Inicialmente, será adotada a base da massa de dados em formato estático (XLS, CSV), para facilitar a criação de painéis.
-Os arquivos para leitura do arquivo, cálculo dos requisitos e apresentação do resultado será armazenado no github, em ambiente privado, com os participantes interessados mediante cadastradamento.
