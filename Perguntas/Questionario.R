@@ -3,13 +3,22 @@ install.packages("shinysurveys")
 library(shiny)
 library(shinysurveys)
 
-df <- data.frame(question = "Quantas reuniões foram realizadas?",
-                 option = "0",
-                 input_type = "numeric",
-                 input_id = "5.I.a",
-                 dependence = NA,
-                 dependence_value = NA,
-                 required = F)
+perguntas <- list(
+  'Quantas reuniões foram realizadas?',
+  'O núcleo de estatística está em funcionamento?',
+  'O comitê está em funcionamento?',
+  'Quantas reuniões foram realizadas?'
+)
+
+
+
+df <- data.frame(question = perguntas,
+                 option = respostas,
+                 input_type = tipo,
+                 input_id = id,
+                 dependence = dependencia,
+                 dependence_value = valor_dependencia,
+                 required = obrigatoria)
 
 ui <- fluidPage(
   surveyOutput(df = df,

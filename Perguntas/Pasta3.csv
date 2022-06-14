@@ -1,0 +1,106 @@
+question	option	input_type	input_id	dependence	dependence_value	required	eixo	area	page	pontos
+1. Quantas reuniões foram realizadas?	2	numeric	Pergunta 1			FALSE	Governança	Administrativa	1	5
+2. O núcleo de estatística está em funcionamento?	Não	y/n	Pergunta 2			FALSE	Governança	Administrativa	1	5
+2. O núcleo de estatística está em funcionamento?	Sim	y/n	Pergunta 3			FALSE	Governança	Administrativa	1	5
+5. Foi realizada a consulta pública?	Não	y/n	Pergunta 4			FALSE	Governança	Administrativa	1	5
+5. Foi realizada a consulta pública?	Sim	y/n	Pergunta 5			FALSE	Governança	Administrativa	1	5
+6. Foi realizada a audiência pública?	Não	y/n	Pergunta 6			FALSE	Governança	Administrativa	1	5
+6. Foi realizada a audiência pública?	Sim	y/n	Pergunta 7			FALSE	Governança	Administrativa	1	20
+7. Foi realizada a reunião de 1º e 2º graus?	Não	y/n	Pergunta 8			FALSE	Governança	Administrativa	1	20
+7. Foi realizada a reunião de 1º e 2º graus?	Sim	y/n	Pergunta 9			FALSE	Governança	Administrativa	1	15
+8. Foi realizada a reunião com unidades judiciárias ou técnicas?	Não	y/n	Pergunta 10			FALSE	Governança	Administrativa	1	15
+8. Foi realizada a reunião com unidades judiciárias ou técnicas?	Sim	y/n	Pergunta 11			FALSE	Governança	Administrativa	1	10
+9. Foi realizada reunião com outros tribunais?	Não	y/n	Pergunta 12			FALSE	Governança	Administrativa	1	10
+9. Foi realizada reunião com outros tribunais?	Sim	y/n	Pergunta 13			FALSE	Governança	Administrativa	1	5
+10. Qual o IDS em 2021 do Tribunal?	1	numeric	Pergunta 14			FALSE	Governança	Administrativa	1	5
+11. Qual o IDS em 2020 do Tribunal (2019 para JE)?	0,9	numeric	Pergunta 15			FALSE	Governança	Administrativa	1	5
+12. A comissão foi instituída?	Não	y/n	Pergunta 16			FALSE	Governança	Administrativa	1	5
+12. A comissão foi instituída?	Sim	y/n	Pergunta 17			FALSE	Governança	Administrativa	1	25
+13. A unidade de segurança foi instituída?	Não	y/n	Pergunta 18			FALSE	Governança	Administrativa	1	10
+13. A unidade de segurança foi instituída?	Sim	y/n	Pergunta 19			FALSE	Governança	Administrativa	1	5
+14. Há plano de formação e especialização?	Não	y/n	Pergunta 20			FALSE	Governança	Administrativa	1	5
+14. Há plano de formação e especialização?	Sim	y/n	Pergunta 21			FALSE	Governança	Administrativa	1	5
+15. Foi feita a alteração da denominação dos cargos?	Não	y/n	Pergunta 22			FALSE	Governança	Administrativa	1	5
+15. Foi feita a alteração da denominação dos cargos?	Sim	y/n	Pergunta 23			FALSE	Governança	Administrativa	1	5
+16. A Comissão foi instalada?	Não	y/n	Pergunta 24			FALSE	Governança	Administrativa	1	5
+16. A Comissão foi instalada?	Sim	y/n	Pergunta 25			FALSE	Governança	Administrativa	1	5
+17. Foi realizada campanha de orientação e esclarecimento?	Não	y/n	Pergunta 26			FALSE	Governança	Administrativa	1	5
+17. Foi realizada campanha de orientação e esclarecimento?	Sim	y/n	Pergunta 27			FALSE	Governança	Administrativa	1	5
+18. Os servidores foram capacitados?	Não	y/n	Pergunta 28			FALSE	Governança	Administrativa	1	5
+18. Os servidores foram capacitados?	Sim	y/n	Pergunta 29			FALSE	Governança	Administrativa	1	5
+19. Os magistrados foram capacitados?	Não	y/n	Pergunta 30			FALSE	Governança	Administrativa	1	5
+19. Os magistrados foram capacitados?	Sim	y/n	Pergunta 31			FALSE	Governança	Administrativa	1	5
+20. A Política de Gestão Documental foi instituída?	Não	y/n	Pergunta 32			FALSE	Governança	Administrativa	1	5
+20. A Política de Gestão Documental foi instituída?	Sim	y/n	Pergunta 33			FALSE	Governança	Administrativa	1	5
+21. A Política de Gestão da Memória foi instituída?	Não	y/n	Pergunta 34			FALSE	Governança	Administrativa	1	5
+21. A Política de Gestão da Memória foi instituída?	Sim	y/n	Pergunta 35			FALSE	Governança	Administrativa	1	5
+22. O ambiente físico foi instituído e as fotos foram tiradas?	Não	y/n	Pergunta 36			FALSE	Governança	Administrativa	1	5
+22. O ambiente físico foi instituído e as fotos foram tiradas?	Sim	y/n	Pergunta 37			FALSE	Governança	Administrativa	1	5
+23. O ambiente virtual foi criado?	Não	y/n	Pergunta 38			FALSE	Governança	Administrativa	1	5
+23. O ambiente virtual foi criado?	Sim	y/n	Pergunta 39			FALSE	Governança	Administrativa	1	5
+24. O relatório do RDC-Arq foi emitido com as assinaturas?	Não	y/n	Pergunta 40			FALSE	Governança	Administrativa	1	5
+24. O relatório do RDC-Arq foi emitido com as assinaturas?	Sim	y/n	Pergunta 41			FALSE	Governança	Administrativa	1	5
+25. Qual o percentual de desembargadoras?	0,00%	numeric	Pergunta 42			FALSE	Governança	Administrativa	1	5
+26. Qual o percentual de servidoras comissionadas?	0	numeric	Pergunta 43			FALSE	Governança	Administrativa	1	15
+27. Qual o percentual de juízas?	0	numeric	Pergunta 44			FALSE	Governança	Administrativa	1	15
+28. A Comissão foi implantada e está em funcionamento?	Não	y/n	Pergunta 45			FALSE	Governança	Administrativa	1	10
+28. A Comissão foi implantada e está em funcionamento?	Sim	y/n	Pergunta 46			FALSE	Governança	Administrativa	1	10
+29. O relatório foi elaborado?	Não	y/n	Pergunta 47			FALSE	Governança	Administrativa	1	10
+29. O relatório foi elaborado?	Sim	y/n	Pergunta 48			FALSE	Governança	Administrativa	1	5
+30. Qual o percentual de servidores capacitados?	0	numeric	Pergunta 49			FALSE	Governança	Administrativa	1	5
+31. Qual o percentual de eventos realizados?	0,7	numeric	Pergunta 50			FALSE	Governança	Administrativa	1	5
+32. Quantos recursos de tecnologia assistida o Tribunal disponibiliza?	2	numeric	Pergunta 51			FALSE	Governança	Administrativa	1	5
+33. O laboratório foi implantado?	Não	y/n	Pergunta 52			FALSE	Governança	Administrativa	1	5
+33. O laboratório foi implantado?	Sim	y/n	Pergunta 53			FALSE	Governança	Administrativa	1	5
+34. O relatório foi encaminhado?	Não	y/n	Pergunta 54			FALSE	Governança	Administrativa	1	5
+34. O relatório foi encaminhado?	Sim	y/n	Pergunta 55			FALSE	Governança	Administrativa	1	5
+35. Os laboratoristas foram capacitados?	Não	y/n	Pergunta 56			FALSE	Governança	Administrativa	1	5
+35. Os laboratoristas foram capacitados?	Sim	y/n	Pergunta 57			FALSE	Governança	Administrativa	1	10
+3. O comitê está em funcionamento?	Não	y/n	Pergunta 58			FALSE	Governança	Judiciária	2	10
+3. O comitê está em funcionamento?	Sim	y/n	Pergunta 59			FALSE	Governança	Judiciária	2	5
+4. Quantas reuniões foram realizadas?	200,00%	numeric	Pergunta 60			FALSE	Governança	Judiciária	2	5
+36. O núcleo foi implantado?	Não	y/n	Pergunta 61			FALSE	Governança	Judiciária	2	10
+36. O núcleo foi implantado?	Sim	y/n	Pergunta 62			FALSE	Governança	Judiciária	2	10
+37. O relatório foi encaminhado?	Não	y/n	Pergunta 63			FALSE	Governança	Judiciária	2	10
+37. O relatório foi encaminhado?	Sim	y/n	Pergunta 64			FALSE	Governança	Judiciária	2	10
+38. Qual a redução da TCL ou, no caso da JE, qual a TCL do tribunal?	0,00%	numeric	Pergunta 65			FALSE	Produtividade	Judiciária	3	50
+39. Qual o tempo médio de processos pendentes?	0,00%	numeric	Pergunta 66			FALSE	Produtividade	Judiciária	3	50
+40. Qual o percentual de cumprimento da Meta 1?	1	numeric	Pergunta 67			FALSE	Produtividade	Judiciária	3	10
+41. Qual o percentual de cumprimento da Meta 2?	1	numeric	Pergunta 68			FALSE	Produtividade	Judiciária	3	10
+42. Qual o percentual de cumprimento da Meta 4?	100,00%	numeric	Pergunta 69			FALSE	Produtividade	Judiciária	3	10
+43. Qual o percentual de cumprimento da Meta 9?	100,00%	numeric	Pergunta 70			FALSE	Produtividade	Judiciária	3	10
+44. Qual a proporção dos processos anteriores a 2019?	0,00%	numeric	Pergunta 71			FALSE	Produtividade	Judiciária	3	50
+45. Qual o tempo médio das ações penais pendentes líquidas?	0,00%	numeric	Pergunta 72			FALSE	Produtividade	Judiciária	3	20
+46. Qual o percentual de unidades com IAD igual ou superior a 100% na 1 instancia?	100,00%	numeric	Pergunta 73			FALSE	Produtividade	Judiciária	3	30
+47. Qual o percentual de unidades com IAD igual ou superior a 100% na 2 instancia?	100,00%	numeric	Pergunta 74			FALSE	Produtividade	Judiciária	3	20
+69. Qual a pontuação do iGov-TIC-JUD?	100,00%	numeric	Pergunta 75			FALSE	Tecnologia	Administrativa	4	100
+70. Quantas contribuições foram aprovadas?	1000,00%	numeric	Pergunta 76			FALSE	Tecnologia	Administrativa	4	20
+74. Todos os sistemas de tramitação processual estão integrados à PDPJ?	Não	y/n	Pergunta 77			FALSE	Tecnologia	Administrativa	4	60
+74. Todos os sistemas de tramitação processual estão integrados à PDPJ?	Sim	y/n	Pergunta 78			FALSE	Tecnologia	Administrativa	4	40
+75. Todos os sistemas de tramitação processual estão integrados ao Codex?	Não	y/n	Pergunta 79			FALSE	Tecnologia	Administrativa	4	65
+75. Todos os sistemas de tramitação processual estão integrados ao Codex?	Sim	y/n	Pergunta 80			FALSE	Tecnologia	Administrativa	4	15
+76. Qual o percentual de processos eletrônicos pendentes integrados ao Codex?	100,00%	numeric	Pergunta 81			FALSE	Tecnologia	Administrativa	4	15
+50. a. erros relacionados aos processos	100,00%	numeric	Pergunta 82			FALSE	Tecnologia	Judiciária	5	15
+51. b. validação dos campos relativos às partes	100,00%	numeric	Pergunta 83			FALSE	Tecnologia	Judiciária	5	15
+52. c. validação de campos de tópicos específicos	100,00%	numeric	Pergunta 84			FALSE	Tecnologia	Judiciária	5	10
+53. a. casos novos	100,00%	numeric	Pergunta 85			FALSE	Tecnologia	Judiciária	5	10
+54. b. processos baixados	100,00%	numeric	Pergunta 86			FALSE	Tecnologia	Judiciária	5	10
+55. c. casos pendentes	100,00%	numeric	Pergunta 87			FALSE	Tecnologia	Judiciária	5	10
+56. d. sentenças e decisões terminativas	100,00%	numeric	Pergunta 88			FALSE	Tecnologia	Judiciária	5	10
+57. a. Tipo de Unidade	100,00%	numeric	Pergunta 89			FALSE	Tecnologia	Judiciária	5	10
+58. b. Classificação da unidade	100,00%	numeric	Pergunta 90			FALSE	Tecnologia	Judiciária	5	10
+59. c. Telefone	1	numeric	Pergunta 91			FALSE	Tecnologia	Judiciária	5	10
+60. d. Endereço e CEP	1	numeric	Pergunta 92			FALSE	Tecnologia	Judiciária	5	10
+61. e. email	1	numeric	Pergunta 93			FALSE	Tecnologia	Judiciária	5	5
+62. f. Código da unidade de origem	100,00%	numeric	Pergunta 94			FALSE	Tecnologia	Judiciária	5	5
+63. g. Latitude e longitude	1	numeric	Pergunta 95			FALSE	Tecnologia	Judiciária	5	70
+64. a.1. Dados básicos	1	numeric	Pergunta 96			FALSE	Tecnologia	Judiciária	5	50
+65. b.1. Assuntos	1	numeric	Pergunta 97			FALSE	Tecnologia	Judiciária	5	50
+66. c.1. Partes: polo ativo preenchido	1	numeric	Pergunta 98			FALSE	Tecnologia	Judiciária	5	30
+67. c.2. Partes: polo passivo preenchido	1	numeric	Pergunta 99			FALSE	Tecnologia	Judiciária	5	20
+68. Qual o percentual de processos eletrônicos pendentes?	1	numeric	Pergunta 100			FALSE	Tecnologia	Judiciária	5	20
+71. Qual o percentual de unidades judiciárias com o Juízo 100% digital?	1	numeric	Pergunta 101			FALSE	Tecnologia	Judiciária	5	70
+72. Quantos núcleos foram instalados?	200,00%	numeric	Pergunta 102			FALSE	Tecnologia	Judiciária	5	70
+73. Quantas unidades judiciárias atendem pelo Balcão Virtual?	0	numeric	Pergunta 103			FALSE	Tecnologia	Judiciária	5	50
+48. Qual o percentual de transparência do tribunal?	1	numeric	Pergunta 104			FALSE	Transparência	Administrativa	6	50
+49. Qual o percentual de cumprimento do prazo de resposta?	1	numeric	Pergunta 105			FALSE	Transparência	Administrativa	6	30

@@ -23,33 +23,25 @@ if (!file.exists('dados')) {
   dir.create('dados')
 }
 
-# Checando se o arquivo com as variáveis existe
-if (file.exists('dados/variaveis.csv')) {
-  # carregando arquivo com as variáveis anteriormente calculadas
-  variaveis <- read.csv2('dados/variaveis.csv')
+# Checando se o arquivo com os dados do MPM existe
+if (file.exists('dados/dados_unidades.csv')) {
+  # carregando arquivo com os dados anteriormente obtidos
+  dados_unidades <- read.csv2('dados/dados_unidades.csv')
 } else {
-  # criando dataframe para as variaveis
-  variaveis <- data.frame(
+  # criando dataframe para os dados do mpm
+  dados_unidades <- data.frame(
     data = character(),
-    tcl_calculada = numeric(),
-    tcl1 = numeric(),
-    tcl2 = numeric(),
-    tpcpl_calculado = numeric(),
-    tpcp1 = integer(),
-    tpcp2 = integer(),
-    iad_calculado = numeric(),
-    iad1 = numeric(),
-    iad2 = numeric(),
-    cp1 = integer(),
-    cp2 = integer(),
-    sus1 = integer(),
-    sus2 = integer(),
-    tbaix1 = integer(),
-    tbaix2 = integer(),
-    cn1 = integer(),
-    cn2 = integer()
+    tipo_unidade = numeric(),
+    classificacao_unidade = character(),
+    telefone = numeric(),
+    endereco = character(),
+    email = character(),
+    codigo_unidade = integer(),
+    latitude = numeric(),
+    longitude = numeric()
   )
 }
+
 
 ### 
 # Raspando os dados do Atena
@@ -80,49 +72,52 @@ painel_litigiosidade <- jsonlite::fromJSON(url_painel_litigiosidade)
 
 
 
-#TCL
-# buscando os valores já calculados da TCL
-tcl2 <- tcl_atena$valor_anual[1]
-tcl1 <- tcl_atena$valor_anual[2]
-# buscando os valores para cálculo da TCL
-cp2 <- cp_atena$valor_semestre1[1]
-cp1 <- cp_atena$valor_semestre1[2]
-sus1 <- sus_atena$quantidade_semestre1[3]
-sus2 <- sus_atena$quantidade_semestre1[1]
-tbaix2 <- tbaix_atena$valor_semestre1[1]
-tbaix1 <- tbaix_atena$valor_semestre1[2]
-
-# TpCpL
-# buscando os valores já calculados do TpCp
-tpcp1 <- tpcp_atena$processos[1]
-tpcp2 <- tpcp_atena$processos[2]
-# buscando os valores para cálculo do TpCpL
-mtpcp1 <- tpcp_atena$media[1]
-mtpcp2 <- tpcp_atena$media[2]
-
 # IAD
-# buscando os valores já calculados do IAD
-iad2 <- iad_atena$valor_anual[1]
-iad1 <- iad_atena$valor_anual[2]
+# buscar iad por unidade, inclusive no 2 grau
 
-# buscando os valores para cálculo do IAD
-cn2 <- cn_atena$valor_semestre1[1]
-cn1 <- cn_atena$valor_semestre1[2]
+# verificando o arquivo com os dados foi carregado
+if (!exists('dados_serventias')) {
+  # criando base de dados das serventias
+  dados_serventias <- data.frame(
+    codigo_serventia = serventias$codigo_serventia,
+    descricao_serventia = serventias$descricao
+  )
+}
 
+# iterando em cada serventia
+for (serventia in serventias$codigo_serventia) {
+  
+  #construindo a url para raspar o atena
+  dominio <- 'http://atena.tre-rr.jus.br'
+  indicador <- '/indicadores/dashboards/litigiosidade.json?button=&per_page=30&q%5Bano_eq%5D=2022&qr%5Bcodigo_serventia_eq%5D='
+  variavel <- '&qr%5Bgrau_eq%5D='
+  
+  url_painel_litigiosidade <- sprintf('%s%s%s%s', dominio, indicador, serventia, variavel)
+  
+  painel <- jsonlite::fromJSON(url_painel_litigiosidade)
+  
+  
+  # obtendo o iad da 1 instancia
+  dados_serventias$iad1[dados_serventias$codigo_serventia == serventia] <- painel$variaveis$valor_anual[12]
+  
+  # obtendo o iad da 2 instancia
+  dados_serventias$iad2[dados_serventias$codigo_serventia == serventia] <- painel$variaveis$valor_anual[6]
+  
+  # buscar unidades do juizo digital
+  dados_serventias$juizo_digital[dados_serventias$codigo_serventia == serventia] <- serventias$juizo_digital[serventias$codigo_serventia == serventia]
+  
+  # geolocalizar unidades judiciarias
+  dados_serventias$longitude[dados_serventias$codigo_serventia == serventia] <- serventias$longitude[serventias$codigo_serventia == serventia]
+  dados_serventias$latitude[dados_serventias$codigo_serventia == serventia] <- serventias$latitude[serventias$codigo_serventia == serventia]
+  
+}
 
 ### 
 # Calculando os valores
 ###
 
-# Calculando a TCL
-tcl_calculada <- ((cp1+cp2)-(sus1+sus2))/((cp1+cp2)-(sus1+sus2)+(tbaix1+tbaix2))
-
 # Calculando o IAD
 iad_calculado <- (tbaix1+tbaix2)/(cn1+cn2)
-
-# Calculando a TpCpL
-tpcpl_calculado <- ((mtpcp1*cp1)+(mtpcp2*cp2))/(cp1+cp2)
-
 
 # Verificando data da consulta
 data <- Sys.time()
@@ -132,28 +127,7 @@ data <- as.character(data)
 # Guardando as variáveis obtidas
 ###
 
-# montando base de dados
-variaveis[nrow(variaveis) + 1,] <- data.frame(
-  data = data,
-  tcl_calculada = tcl_calculada,
-  tcl1 = tcl1,
-  tcl2 = tcl2,
-  tpcpl_calculado = tpcpl_calculado,
-  tpcp1 = tpcp1,
-  tpcp2 = tpcp2,
-  iad_calculado = iad_calculado,
-  iad1 = iad1,
-  iad2 = iad2,
-  cp1 = cp1,
-  cp2 = cp2,
-  sus1 = sus1,
-  sus2 = sus2,
-  tbaix1 = tbaix1,
-  tbaix2 = tbaix2,
-  cn1 = cn1,
-  cn2 = cn2
-)
 
 # guardando os dados no arquivo de variaveis
-write.csv2(variaveis, 'dados/variaveis.csv', row.names = FALSE)
+write.csv2(dados_serventias, 'dados/dados_serventias.csv', row.names = FALSE)
 

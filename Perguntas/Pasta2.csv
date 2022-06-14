@@ -1,0 +1,106 @@
+﻿question;option;input_type;input_id;dependence;dependence_value;required;eixo;area;page
+1. Quantas reuniões foram realizadas?;2;numeric;1;;;FALSE;Governança;Administrativa;1
+2. O núcleo de estatística está em funcionamento?;Não;y/n;2;;;FALSE;Governança;Administrativa;1
+2. O núcleo de estatística está em funcionamento?;Sim;y/n;2;;;FALSE;Governança;Administrativa;1
+5. Foi realizada a consulta pública?;Não;y/n;5;;;FALSE;Governança;Administrativa;1
+5. Foi realizada a consulta pública?;Sim;y/n;5;;;FALSE;Governança;Administrativa;1
+6. Foi realizada a audiência pública?;Não;y/n;6;;;FALSE;Governança;Administrativa;1
+6. Foi realizada a audiência pública?;Sim;y/n;6;;;FALSE;Governança;Administrativa;1
+7. Foi realizada a reunião de 1º e 2º graus?;Não;y/n;7;;;FALSE;Governança;Administrativa;1
+7. Foi realizada a reunião de 1º e 2º graus?;Sim;y/n;7;;;FALSE;Governança;Administrativa;1
+8. Foi realizada a reunião com unidades judiciárias ou técnicas?;Não;y/n;8;;;FALSE;Governança;Administrativa;1
+8. Foi realizada a reunião com unidades judiciárias ou técnicas?;Sim;y/n;8;;;FALSE;Governança;Administrativa;1
+9. Foi realizada reunião com outros tribunais?;Não;y/n;9;;;FALSE;Governança;Administrativa;1
+9. Foi realizada reunião com outros tribunais?;Sim;y/n;9;;;FALSE;Governança;Administrativa;1
+10. Qual o IDS em 2021 do Tribunal?;1;numeric;10;;;FALSE;Governança;Administrativa;1
+11. Qual o IDS em 2020 do Tribunal (2019 para JE)?;0,9;numeric;11;;;FALSE;Governança;Administrativa;1
+12. A comissão foi instituída?;Não;y/n;12;;;FALSE;Governança;Administrativa;1
+12. A comissão foi instituída?;Sim;y/n;12;;;FALSE;Governança;Administrativa;1
+13. A unidade de segurança foi instituída?;Não;y/n;13;;;FALSE;Governança;Administrativa;1
+13. A unidade de segurança foi instituída?;Sim;y/n;13;;;FALSE;Governança;Administrativa;1
+14. Há plano de formação e especialização?;Não;y/n;14;;;FALSE;Governança;Administrativa;1
+14. Há plano de formação e especialização?;Sim;y/n;14;;;FALSE;Governança;Administrativa;1
+15. Foi feita a alteração da denominação dos cargos?;Não;y/n;15;;;FALSE;Governança;Administrativa;1
+15. Foi feita a alteração da denominação dos cargos?;Sim;y/n;15;;;FALSE;Governança;Administrativa;1
+16. A Comissão foi instalada?;Não;y/n;16;;;FALSE;Governança;Administrativa;1
+16. A Comissão foi instalada?;Sim;y/n;16;;;FALSE;Governança;Administrativa;1
+17. Foi realizada campanha de orientação e esclarecimento?;Não;y/n;17;;;FALSE;Governança;Administrativa;1
+17. Foi realizada campanha de orientação e esclarecimento?;Sim;y/n;17;;;FALSE;Governança;Administrativa;1
+18. Os servidores foram capacitados?;Não;y/n;18;;;FALSE;Governança;Administrativa;1
+18. Os servidores foram capacitados?;Sim;y/n;18;;;FALSE;Governança;Administrativa;1
+19. Os magistrados foram capacitados?;Não;y/n;19;;;FALSE;Governança;Administrativa;1
+19. Os magistrados foram capacitados?;Sim;y/n;19;;;FALSE;Governança;Administrativa;1
+20. A Política de Gestão Documental foi instituída?;Não;y/n;20;;;FALSE;Governança;Administrativa;1
+20. A Política de Gestão Documental foi instituída?;Sim;y/n;20;;;FALSE;Governança;Administrativa;1
+21. A Política de Gestão da Memória foi instituída?;Não;y/n;21;;;FALSE;Governança;Administrativa;1
+21. A Política de Gestão da Memória foi instituída?;Sim;y/n;21;;;FALSE;Governança;Administrativa;1
+22. O ambiente físico foi instituído e as fotos foram tiradas?;Não;y/n;22;;;FALSE;Governança;Administrativa;1
+22. O ambiente físico foi instituído e as fotos foram tiradas?;Sim;y/n;22;;;FALSE;Governança;Administrativa;1
+23. O ambiente virtual foi criado?;Não;y/n;23;;;FALSE;Governança;Administrativa;1
+23. O ambiente virtual foi criado?;Sim;y/n;23;;;FALSE;Governança;Administrativa;1
+24. O relatório do RDC-Arq foi emitido com as assinaturas?;Não;y/n;24;;;FALSE;Governança;Administrativa;1
+24. O relatório do RDC-Arq foi emitido com as assinaturas?;Sim;y/n;24;;;FALSE;Governança;Administrativa;1
+25. Qual o percentual de desembargadoras?;0,00%;numeric;25;;;FALSE;Governança;Administrativa;1
+26. Qual o percentual de servidoras comissionadas?;0,00%;numeric;26;;;FALSE;Governança;Administrativa;1
+27. Qual o percentual de juízas?;0,00%;numeric;27;;;FALSE;Governança;Administrativa;1
+28. A Comissão foi implantada e está em funcionamento?;Não;y/n;28;;;FALSE;Governança;Administrativa;1
+28. A Comissão foi implantada e está em funcionamento?;Sim;y/n;28;;;FALSE;Governança;Administrativa;1
+29. O relatório foi elaborado?;Não;y/n;29;;;FALSE;Governança;Administrativa;1
+29. O relatório foi elaborado?;Sim;y/n;29;;;FALSE;Governança;Administrativa;1
+30. Qual o percentual de servidores capacitados?;0,00%;numeric;30;;;FALSE;Governança;Administrativa;1
+31. Qual o percentual de eventos realizados?;70,00%;numeric;31;;;FALSE;Governança;Administrativa;1
+32. Quantos recursos de tecnologia assistida o Tribunal disponibiliza?;2;numeric;32;;;FALSE;Governança;Administrativa;1
+33. O laboratório foi implantado?;Não;y/n;33;;;FALSE;Governança;Administrativa;1
+33. O laboratório foi implantado?;Sim;y/n;33;;;FALSE;Governança;Administrativa;1
+34. O relatório foi encaminhado?;Não;y/n;34;;;FALSE;Governança;Administrativa;1
+34. O relatório foi encaminhado?;Sim;y/n;34;;;FALSE;Governança;Administrativa;1
+35. Os laboratoristas foram capacitados?;Não;y/n;35;;;FALSE;Governança;Administrativa;1
+35. Os laboratoristas foram capacitados?;Sim;y/n;35;;;FALSE;Governança;Administrativa;1
+3. O comitê está em funcionamento?;Não;y/n;3;;;FALSE;Governança;Judiciária;2
+3. O comitê está em funcionamento?;Sim;y/n;3;;;FALSE;Governança;Judiciária;2
+4. Quantas reuniões foram realizadas?;2;numeric;4;;;FALSE;Governança;Judiciária;2
+36. O núcleo foi implantado?;Não;y/n;36;;;FALSE;Governança;Judiciária;2
+36. O núcleo foi implantado?;Sim;y/n;36;;;FALSE;Governança;Judiciária;2
+37. O relatório foi encaminhado?;Não;y/n;37;;;FALSE;Governança;Judiciária;2
+37. O relatório foi encaminhado?;Sim;y/n;37;;;FALSE;Governança;Judiciária;2
+38. Qual a redução da TCL ou, no caso da JE, qual a TCL do tribunal?;0,00%;numeric;38;;;FALSE;Produtividade;Judiciária;3
+39. Qual o tempo médio de processos pendentes?;0;numeric;39;;;FALSE;Produtividade;Judiciária;3
+40. Qual o percentual de cumprimento da Meta 1?;100,00%;numeric;40;;;FALSE;Produtividade;Judiciária;3
+41. Qual o percentual de cumprimento da Meta 2?;100,00%;numeric;41;;;FALSE;Produtividade;Judiciária;3
+42. Qual o percentual de cumprimento da Meta 4?;100,00%;numeric;42;;;FALSE;Produtividade;Judiciária;3
+43. Qual o percentual de cumprimento da Meta 9?;100,00%;numeric;43;;;FALSE;Produtividade;Judiciária;3
+44. Qual a proporção dos processos anteriores a 2019?;0,00%;numeric;44;;;FALSE;Produtividade;Judiciária;3
+45. Qual o tempo médio das ações penais pendentes líquidas?;0;numeric;45;;;FALSE;Produtividade;Judiciária;3
+46. Qual o percentual de unidades com IAD igual ou superior a 100% na 1 instancia?;100,00%;numeric;46;;;FALSE;Produtividade;Judiciária;3
+47. Qual o percentual de unidades com IAD igual ou superior a 100% na 2 instancia?;100,00%;numeric;47;;;FALSE;Produtividade;Judiciária;3
+69. Qual a pontuação do iGov-TIC-JUD?;100,00%;numeric;69;;;FALSE;Tecnologia;Administrativa;4
+70. Quantas contribuições foram aprovadas?;10;numeric;70;;;FALSE;Tecnologia;Administrativa;4
+74. Todos os sistemas de tramitação processual estão integrados à PDPJ?;Não;y/n;74;;;FALSE;Tecnologia;Administrativa;4
+74. Todos os sistemas de tramitação processual estão integrados à PDPJ?;Sim;y/n;74;;;FALSE;Tecnologia;Administrativa;4
+75. Todos os sistemas de tramitação processual estão integrados ao Codex?;Não;y/n;75;;;FALSE;Tecnologia;Administrativa;4
+75. Todos os sistemas de tramitação processual estão integrados ao Codex?;Sim;y/n;75;;;FALSE;Tecnologia;Administrativa;4
+76. Qual o percentual de processos eletrônicos pendentes integrados ao Codex?;100,00%;numeric;76;;;FALSE;Tecnologia;Administrativa;4
+50. a. erros relacionados aos processos;100,00%;numeric;50;;;FALSE;Tecnologia;Judiciária;5
+51. b. validação dos campos relativos às partes;100,00%;numeric;51;;;FALSE;Tecnologia;Judiciária;5
+52. c. validação de campos de tópicos específicos;100,00%;numeric;52;;;FALSE;Tecnologia;Judiciária;5
+53. a. casos novos;100,00%;numeric;53;;;FALSE;Tecnologia;Judiciária;5
+54. b. processos baixados;100,00%;numeric;54;;;FALSE;Tecnologia;Judiciária;5
+55. c. casos pendentes;100,00%;numeric;55;;;FALSE;Tecnologia;Judiciária;5
+56. d. sentenças e decisões terminativas;100,00%;numeric;56;;;FALSE;Tecnologia;Judiciária;5
+57. a. Tipo de Unidade;100,00%;numeric;57;;;FALSE;Tecnologia;Judiciária;5
+58. b. Classificação da unidade;100,00%;numeric;58;;;FALSE;Tecnologia;Judiciária;5
+59. c. Telefone;100,00%;numeric;59;;;FALSE;Tecnologia;Judiciária;5
+60. d. Endereço e CEP;100,00%;numeric;60;;;FALSE;Tecnologia;Judiciária;5
+61. e. email;100,00%;numeric;61;;;FALSE;Tecnologia;Judiciária;5
+62. f. Código da unidade de origem;100,00%;numeric;62;;;FALSE;Tecnologia;Judiciária;5
+63. g. Latitude e longitude;100,00%;numeric;63;;;FALSE;Tecnologia;Judiciária;5
+64. a.1. Dados básicos;100,00%;numeric;64;;;FALSE;Tecnologia;Judiciária;5
+65. b.1. Assuntos;100,00%;numeric;65;;;FALSE;Tecnologia;Judiciária;5
+66. c.1. Partes: polo ativo preenchido;100,00%;numeric;66;;;FALSE;Tecnologia;Judiciária;5
+67. c.2. Partes: polo passivo preenchido;100,00%;numeric;67;;;FALSE;Tecnologia;Judiciária;5
+68. Qual o percentual de processos eletrônicos pendentes?;100,00%;numeric;68;;;FALSE;Tecnologia;Judiciária;5
+71. Qual o percentual de unidades judiciárias com o Juízo 100% digital?;100,00%;numeric;71;;;FALSE;Tecnologia;Judiciária;5
+72. Quantos núcleos foram instalados?;2;numeric;72;;;FALSE;Tecnologia;Judiciária;5
+73. Quantas unidades judiciárias atendem pelo Balcão Virtual?;0;numeric;73;;;FALSE;Tecnologia;Judiciária;5
+48. Qual o percentual de transparência do tribunal?;100,00%;numeric;48;;;FALSE;Transparência;Administrativa;6
+49. Qual o percentual de cumprimento do prazo de resposta?;100,00%;numeric;49;;;FALSE;Transparência;Administrativa;6

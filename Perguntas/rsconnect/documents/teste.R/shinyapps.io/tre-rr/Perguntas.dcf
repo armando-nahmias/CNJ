@@ -1,0 +1,14 @@
+name: Perguntas
+title: Perguntas
+username:
+account: tre-rr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6461247
+bundleId: 5993324
+url: https://tre-rr.shinyapps.io/Perguntas/
+when: 1654794546.87431
+lastSyncTime: 1654794546.87432
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|getSurveyData.R|Pasta.csv|Pasta3.csv|Pasta4.csv|plot.R|qstock.R|Questionario.R|tabela.R|teste.csv

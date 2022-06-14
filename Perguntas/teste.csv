@@ -1,0 +1,106 @@
+﻿Ord Req;Requisitos;Ord Crit;Critérios;Período;Prêmio;Eixo;Área;Pontuação Requisitos;Pontuação Critérios;Pergunta;Resposta
+1;1 – Art. 5º, I – Reuniões da RAE e Núcleo de Estatística;1;a. pelo menos 2 reuniões da RAE;31/08/2022;Prêmio CNJ;Governança;Administrativa;10;5;Quantas reuniões foram realizadas?;2
+1;1 – Art. 5º, I – Reuniões da RAE e Núcleo de Estatística;2;b. núcleo de estatística em funcionamento;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;O núcleo de estatística está em funcionamento?;Sim
+1;1 – Art. 5º, I – Reuniões da RAE e Núcleo de Estatística;2;b. núcleo de estatística em funcionamento;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;O núcleo de estatística está em funcionamento?;Não
+2;2 – Art. 5º, II – Política de Priorização do 1º Grau;3;a. comitês em funcionamento;31/08/2022;Prêmio CNJ;Governança;Judiciária;10;5;O comitê está em funcionamento?;Sim
+2;2 – Art. 5º, II – Política de Priorização do 1º Grau;3;a. comitês em funcionamento;31/08/2022;Prêmio CNJ;Governança;Judiciária;10;05/01/1900;O comitê está em funcionamento?;Não
+2;2 – Art. 5º, II – Política de Priorização do 1º Grau;4;b. pelo menos 2 reuniões;31/08/2022;Prêmio CNJ;Governança;Judiciária;;5;Quantas reuniões foram realizadas?;2
+3;3 – Art. 5º, IV – Gestão Participativa;5;a. consulta pública;16/08/2022;Prêmio CNJ;Governança;Administrativa;30;20;Foi realizada a consulta pública?;Sim
+3;3 – Art. 5º, IV – Gestão Participativa;5;a. consulta pública;16/08/2022;Prêmio CNJ;Governança;Administrativa;30;20/01/1900;Foi realizada a consulta pública?;Não
+3;3 – Art. 5º, IV – Gestão Participativa;6;b. audiência pública;16/08/2022;Prêmio CNJ;Governança;Administrativa;;15;Foi realizada a audiência pública?;Sim
+3;3 – Art. 5º, IV – Gestão Participativa;6;b. audiência pública;16/08/2022;Prêmio CNJ;Governança;Administrativa;;15/01/1900;Foi realizada a audiência pública?;Não
+3;3 – Art. 5º, IV – Gestão Participativa;7;c. reunião de 1º e 2º graus;16/08/2022;Prêmio CNJ;Governança;Administrativa;;10;Foi realizada a reunião de 1º e 2º graus?;Sim
+3;3 – Art. 5º, IV – Gestão Participativa;7;c. reunião de 1º e 2º graus;16/08/2022;Prêmio CNJ;Governança;Administrativa;;10/01/1900;Foi realizada a reunião de 1º e 2º graus?;Não
+3;3 – Art. 5º, IV – Gestão Participativa;8;d. reunião com unidades judiciárias;16/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Foi realizada a reunião com unidades judiciárias ou técnicas?;Sim
+3;3 – Art. 5º, IV – Gestão Participativa;8;d. reunião com unidades judiciárias;16/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Foi realizada a reunião com unidades judiciárias ou técnicas?;Não
+3;3 – Art. 5º, IV – Gestão Participativa;9;e. reunião com outros tribunais;16/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Foi realizada reunião com outros tribunais?;Sim
+3;3 – Art. 5º, IV – Gestão Participativa;9;e. reunião com outros tribunais;16/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Foi realizada reunião com outros tribunais?;Não
+4;4 – Art. 5º, V – Socioambiental;10;a. IDS*25 (desde que o IDS > 50%);31/12/2021;Prêmio CNJ;Governança;Administrativa;35;25;Qual o IDS em 2021 do Tribunal?;1,00
+4;4 – Art. 5º, V – Socioambiental;11;b. aumento IDS pelo menos 10% entre 2019 e 2021;31/12/2021;Prêmio CNJ;Governança;Administrativa;;10;Qual o IDS em 2020 do Tribunal (2019 para JE)?;0,90
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;12;a. Comissão Permanente de Segurança;31/08/2022;Prêmio CNJ;Governança;Administrativa;20;5;A comissão foi instituída?;Sim
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;12;a. Comissão Permanente de Segurança;31/08/2022;Prêmio CNJ;Governança;Administrativa;20;05/01/1900;A comissão foi instituída?;Não
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;13;b. unidade de segurança;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;A unidade de segurança foi instituída?;Sim
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;13;b. unidade de segurança;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;A unidade de segurança foi instituída?;Não
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;14;c. plano formação e espec. agentes de segurança;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Há plano de formação e especialização?;Sim
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;14;c. plano formação e espec. agentes de segurança;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Há plano de formação e especialização?;Não
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;15;d. alterar denominação de cargos;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Foi feita a alteração da denominação dos cargos?;Sim
+5;5 – Art. 5º, VII – Comissões Permanentes de Segurança;15;d. alterar denominação de cargos;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Foi feita a alteração da denominação dos cargos?;Não
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;16;a. instalar Comissão;31/08/2022;Prêmio CNJ;Governança;Administrativa;20;5;A Comissão foi instalada?;Sim
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;16;a. instalar Comissão;31/08/2022;Prêmio CNJ;Governança;Administrativa;20;05/01/1900;A Comissão foi instalada?;Não
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;17;b. campanha de orientação e esclarecimento;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Foi realizada campanha de orientação e esclarecimento?;Sim
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;17;b. campanha de orientação e esclarecimento;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Foi realizada campanha de orientação e esclarecimento?;Não
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;18;c. capacitação de servidores;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Os servidores foram capacitados?;Sim
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;18;c. capacitação de servidores;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Os servidores foram capacitados?;Não
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;19;d. capacitação de magistrados;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Os magistrados foram capacitados?;Sim
+6;6 – Art. 5º, IX – Discriminação, Assédio Moral e Sexual;19;d. capacitação de magistrados;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Os magistrados foram capacitados?;Não
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;20;a. Política de Gestão Documental;31/08/2022;Prêmio CNJ;Governança;Administrativa;35;5;A Política de Gestão Documental foi instituída?;Sim
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;20;a. Política de Gestão Documental;31/08/2022;Prêmio CNJ;Governança;Administrativa;35;05/01/1900;A Política de Gestão Documental foi instituída?;Não
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;21;b. Política de Gestão de Memória;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;A Política de Gestão da Memória foi instituída?;Sim
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;21;b. Política de Gestão de Memória;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;A Política de Gestão da Memória foi instituída?;Não
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;22;c.1. ambiente físico de preservação da memória;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;O ambiente físico foi instituído e as fotos foram tiradas?;Sim
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;22;c.1. ambiente físico de preservação da memória;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;O ambiente físico foi instituído e as fotos foram tiradas?;Não
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;23;c.2. ambiente virtual de preservação da memória;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;O ambiente virtual foi criado?;Sim
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;23;c.2. ambiente virtual de preservação da memória;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;O ambiente virtual foi criado?;Não
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;24;d. RDC-Arq;31/08/2022;Prêmio CNJ;Governança;Administrativa;;15;O relatório do RDC-Arq foi emitido com as assinaturas?;Sim
+7;7 – Art. 5º, X – Gestão de Memória e de Gestão Documental;24;d. RDC-Arq;31/08/2022;Prêmio CNJ;Governança;Administrativa;;15/01/1900;O relatório do RDC-Arq foi emitido com as assinaturas?;Não
+8;8 – Art. 5º, XVI – Participação Feminina;25;a. percentual de desembargadoras (25% melhores);31/08/2022;Prêmio CNJ;Governança;Administrativa;30;10;Qual o percentual de desembargadoras?;0,00%
+8;8 – Art. 5º, XVI – Participação Feminina;26;b. percentual de servidoras comissionadas (25% melhores);31/08/2022;Prêmio CNJ;Governança;Administrativa;;10;Qual o percentual de servidoras comissionadas?;0,00%
+8;8 – Art. 5º, XVI – Participação Feminina;27;c. percentual de juízas (25% melhores);31/08/2022;Prêmio CNJ;Governança;Administrativa;;10;Qual o percentual de juízas?;0,00%
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;28;a. Comissão de Acessibilidade e Inclusão;31/08/2022;Prêmio CNJ;Governança;Administrativa;25;5;A Comissão foi implantada e está em funcionamento?;Sim
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;28;a. Comissão de Acessibilidade e Inclusão;31/08/2022;Prêmio CNJ;Governança;Administrativa;25;05/01/1900;A Comissão foi implantada e está em funcionamento?;Não
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;29;b. relatório do art. 23, VII, Res 401/2021;28/02/2022;Prêmio CNJ;Governança;Administrativa;;5;O relatório foi elaborado?;Sim
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;29;b. relatório do art. 23, VII, Res 401/2021;28/02/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;O relatório foi elaborado?;Não
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;30;c.1. capacitação;30/04/2022;Prêmio CNJ;Governança;Administrativa;;5;Qual o percentual de servidores capacitados?;0,00%
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;31;c.2. acessibilidade comunicacional;30/04/2022;Prêmio CNJ;Governança;Administrativa;;5;Qual o percentual de eventos realizados?;70,00%
+9;9 – Art. 5º, XVIII – Acessibilidade e Inclusão;32;c.3. acessibilidade tecnológica;30/04/2022;Prêmio CNJ;Governança;Administrativa;;5;Quantos recursos de tecnologia assistida o Tribunal disponibiliza?;2
+10;10 – Art. 5º, XX – Política de Gestão da Inovação;33;a. Laboratório de Inovação;31/08/2022;Prêmio CNJ;Governança;Administrativa;20;5;O laboratório foi implantado?;Sim
+10;10 – Art. 5º, XX – Política de Gestão da Inovação;33;a. Laboratório de Inovação;31/08/2022;Prêmio CNJ;Governança;Administrativa;20;05/01/1900;O laboratório foi implantado?;Não
+10;10 – Art. 5º, XX – Política de Gestão da Inovação;34;b. relatório dos projetos geradores de inovação;31/08/2022;Prêmio CNJ;Governança;Administrativa;;10;O relatório foi encaminhado?;Sim
+10;10 – Art. 5º, XX – Política de Gestão da Inovação;34;b. relatório dos projetos geradores de inovação;31/08/2022;Prêmio CNJ;Governança;Administrativa;;10/01/1900;O relatório foi encaminhado?;Não
+10;10 – Art. 5º, XX – Política de Gestão da Inovação;35;c. capacitação de laboratoristas;31/08/2022;Prêmio CNJ;Governança;Administrativa;;5;Os laboratoristas foram capacitados?;Sim
+10;10 – Art. 5º, XX – Política de Gestão da Inovação;35;c. capacitação de laboratoristas;31/08/2022;Prêmio CNJ;Governança;Administrativa;;05/01/1900;Os laboratoristas foram capacitados?;Não
+11;11 – Art. 5º, XX – Núcleos de Cooperação Judiciária;36;a. Núcleo de Cooperação Judiciária;31/08/2022;Prêmio CNJ;Governança;Judiciária;20;10;O núcleo foi implantado?;Sim
+11;11 – Art. 5º, XX – Núcleos de Cooperação Judiciária;36;a. Núcleo de Cooperação Judiciária;31/08/2022;Prêmio CNJ;Governança;Judiciária;20;10/01/1900;O núcleo foi implantado?;Não
+11;11 – Art. 5º, XX – Núcleos de Cooperação Judiciária;37;b. relatório boas práticas;31/08/2022;Prêmio CNJ;Governança;Judiciária;;10;O relatório foi encaminhado?;Sim
+11;11 – Art. 5º, XX – Núcleos de Cooperação Judiciária;37;b. relatório boas práticas;31/08/2022;Prêmio CNJ;Governança;Judiciária;;10/01/1900;O relatório foi encaminhado?;Não
+12;12 – Art. 6º, II – Reduzir a Taxa de Congestionamento líquida;38;Reduzir a Taxa de Congestionamento líquida;31/07/2022;Prêmio CNJ;Produtividade;Judiciária;50;50;Qual a redução da TCL ou, no caso da JE, qual a TCL do tribunal?;0,00%
+13;13 – Art. 6º, III – Tempo médio duração processos pendentes;39;Tempo médio duração processos pendentes;31/07/2022;Prêmio CNJ;Produtividade;Judiciária;50;50;Qual o tempo médio de processos pendentes?;0
+14;14 – Art. 6º, V – Metas Nacionais;40;a. Meta 1;31/12/2021;Prêmio CNJ;Produtividade;Judiciária;40;10;Qual o percentual de cumprimento da Meta 1?;100,00%
+14;14 – Art. 6º, V – Metas Nacionais;41;b. Meta 2;31/12/2021;Prêmio CNJ;Produtividade;Judiciária;;10;Qual o percentual de cumprimento da Meta 2?;100,00%
+14;14 – Art. 6º, V – Metas Nacionais;42;c. Meta 4;31/12/2021;Prêmio CNJ;Produtividade;Judiciária;;10;Qual o percentual de cumprimento da Meta 4?;100,00%
+14;14 – Art. 6º, V – Metas Nacionais;43;d. Meta 9;31/12/2021;Prêmio CNJ;Produtividade;Judiciária;;10;Qual o percentual de cumprimento da Meta 9?;100,00%
+15;15 – Art. 6º, VI – Julgar os processos antigos;44;Julgar os processos antigos;31/07/2022;Prêmio CNJ;Produtividade;Judiciária;50;50;Qual a proporção dos processos anteriores a 2019?;0,00%
+16;16 – Art. 6º, XII – Celeridade julgamento das Ações Penais;45;Celeridade julgamento das Ações Penais;31/07/2022;Prêmio CNJ;Produtividade;Judiciária;20;20;Qual o tempo médio das ações penais pendentes líquidas?;0
+17;17 – Art. 6º, XIV – Índice de Atendimento à Demanda;46;a. percentual de unidades de 1 grau X 30;31/07/2022;Prêmio CNJ;Produtividade;Judiciária;50;30;Qual o percentual de unidades com IAD igual ou superior a 100% na 1 instancia?;100,00%
+17;17 – Art. 6º, XIV – Índice de Atendimento à Demanda;47;b. percentual de unidades de 2 grau X 20;31/07/2022;Prêmio CNJ;Produtividade;Judiciária;;20;Qual o percentual de unidades com IAD igual ou superior a 100% na 2 instancia?;100,00%
+18;18 – Art. 7º, I – Ranking da Transparência;48;Ranking da Transparência;29/05/2022;Prêmio CNJ;Transparência;Administrativa;100;100;Qual o percentual de transparência do tribunal?;100,00%
+19;19 – Art. 7º, II – Atendimento ao cidadão Ouvidoria CNJ;49;Atendimento ao cidadão Ouvidoria CNJ;30/06/2022;Prêmio CNJ;Transparência;Administrativa;20;20;Qual o percentual de cumprimento do prazo de resposta?;100,00%
+20;20 – Art. 8º, I – DataJud;50;a. erros relacionados aos processos;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;165;60;;100,00%
+20;20 – Art. 8º, I – DataJud;51;b. validação dos campos relativos às partes;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;40;;100,00%
+20;20 – Art. 8º, I – DataJud;52;c. validação de campos de tópicos específicos;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;65;;100,00%
+21;21 – Art. 8º, II – Justiça em números;53;a. casos novos;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;60;15;;100,00%
+21;21 – Art. 8º, II – Justiça em números;54;b. processos baixados;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;15;;100,00%
+21;21 – Art. 8º, II – Justiça em números;55;c. casos pendentes;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;15;;100,00%
+21;21 – Art. 8º, II – Justiça em números;56;d. sentenças e decisões terminativas;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;15;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;57;a. Tipo de Unidade;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;70;10;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;58;b. Classificação da unidade;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;59;c. Telefone;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;60;d. Endereço e CEP;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;61;e. email;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;62;f. Código da unidade de origem;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+22;22 – Art. 8º, III – Módulo de Produtividade Mensal;63;g. Latitude e longitude;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+23;23 – Art. 8º, VI – Saneamento do DataJud;64;a.1. Dados básicos;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;30;10;;100,00%
+23;23 – Art. 8º, VI – Saneamento do DataJud;65;b.1. Assuntos;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;10;;100,00%
+23;23 – Art. 8º, VI – Saneamento do DataJud;66;c.1. Partes: polo ativo preenchido;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;5;;100,00%
+23;23 – Art. 8º, VI – Saneamento do DataJud;67;c.2. Partes: polo passivo preenchido;05/08/2022;Prêmio CNJ;Tecnologia;Judiciária;;5;;100,00%
+24;24 – Art. 8º, VII – Tramitação eletrônica das ações judiciais;68;Tramitar as ações judiciais de forma Eletrônica;31/07/2022;Prêmio CNJ;Tecnologia;Judiciária;70;70;Qual o percentual de processos eletrônicos pendentes?;100,00%
+25;25 – Art. 8º, VIII – iGov-TIC-JUD;69;iGov-TIC-JUD;30/09/2022;Prêmio CNJ;Tecnologia;Administrativa;50;50;Qual a pontuação do iGov-TIC-JUD?;100,00%
+26;26 – Art. 8º, IX – Contribuir para código fonte PDPJ e Pje;70;5 pontos por código-fonte aprovado;31/08/2022;Prêmio CNJ;Tecnologia;Administrativa;50;50;Quantas contribuições foram aprovadas?;10
+27;27 – Art. 8º, X – Implantar o Juízo 100% Digital;71;Implantar o Juízo 100% Digital;31/08/2022;Prêmio CNJ;Tecnologia;Judiciária;30;30;Qual o percentual de unidades judiciárias com o Juízo 100% digital?;100,00%
+28;28 – Art. 8º, XI – Implantar Núcleo de Justiça 4.0;72;Implantar Núcleo de Justiça 4.0;31/08/2022;Prêmio CNJ;Tecnologia;Judiciária;20;20;Quantos núcleos foram instalados?;2
+29;29 – Art. 8º, XII – Implantar o Balcão Virtual;73;Implantar o Balcão Virtual;31/08/2022;Prêmio CNJ;Tecnologia;Judiciária;20;20;Quantas unidades judiciárias atendem pelo Balcão Virtual?;0
+30;30 – Art. 8º, XIII – Implantar a PDPJ;74;Implantar a PDPJ;31/08/2022;Prêmio CNJ;Tecnologia;Administrativa;70;70;Todos os sistemas de tramitação processual estão integrados à PDPJ?;Sim
+30;30 – Art. 8º, XIII – Implantar a PDPJ;74;Implantar a PDPJ;31/08/2022;Prêmio CNJ;Tecnologia;Administrativa;70;10/03/1900;Todos os sistemas de tramitação processual estão integrados à PDPJ?;Não
+31;31 – Art. 8º, XIV – Implantar a Codex;75;a. todos os sistemas integrados à Codex;31/07/2022;Prêmio CNJ;Tecnologia;Administrativa;80;50;Todos os sistemas de tramitação processual estão integrados ao Codex?;Sim
+31;31 – Art. 8º, XIV – Implantar a Codex;75;a. todos os sistemas integrados à Codex;31/07/2022;Prêmio CNJ;Tecnologia;Administrativa;80;19/02/1900;Todos os sistemas de tramitação processual estão integrados ao Codex?;Não
+31;31 – Art. 8º, XIV – Implantar a Codex;76;b. proporção de processos eletrônicos integrados;31/07/2022;Prêmio CNJ;Tecnologia;Administrativa;;30;Qual o percentual de processos eletrônicos pendentes integrados ao Codex?;100,00%
